@@ -1,2 +1,2 @@
 # my-ml-projects
-this repository contains my implementation of ml algorithms learned from college.
+this repository contains our implementation of ml algorithms learned from college.
